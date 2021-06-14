@@ -15,3 +15,11 @@ English
 
 Decision making structure built, first situation and narrative decision has been properly writed, missing optimization of spaces and jump lines
 to achiveve a better reading experience, also I have yet to add the "Sleep(800) tag so the text can appear slowy and with this improve the reading experience of the user.
+
+ver1.1:
+
+English translation pending
+
+Español:
+
+Primera decisión optimizada al 100% y segunda situacion y decision escrita apropiadamente al 95% falta escribir la narrativa despúes de escribir la respuesta.
